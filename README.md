@@ -1,5 +1,3 @@
-## <p align="center"> Hi there 👋 I'm Ratnesh K Thakur
-
 ![White Minimalist Profile LinkedIn Banner (2)](https://github.com/ratneshkthakur/ratneshkthakur/assets/71059840/03dc8625-5278-4dfd-ac72-5591cf6d146c)
 
 - 🔭 Currently, I serve as a Product Manager II at Blowhorn, overseeing product development.
