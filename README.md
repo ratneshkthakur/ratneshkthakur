@@ -2,10 +2,10 @@
 
 <p align="center"> Product Manager | UI/UX Enthusiast | Storyteller | Social Media Marketing Advocate
 
-- 🔭 I’m currently working as a Product Manager II at Blowhorn
--  🌱 I’m currently learning Python and HTML
--  👯 I’m looking to collaborate on Product Management, UI/UX, User Engagement, and Social Media Marketing.
--  💬 Ask me about Product Management, Product Life Cycle Management, etc.
+- 🔭 Currently, I serve as a Product Manager II at Blowhorn, overseeing product development.
+- 🌱 I'm actively expanding my skill set with Python and HTML, embracing continuous learning.
+- 👯 Seeking collaborations in Product Management, UI/UX, User Engagement, and Social Media Marketing.
+- 💬 Feel free to ask me about Product Management, Product Life Cycle Management, and more. I'm here to help!
 
 ----
 **Here are my areas of expertise:**
