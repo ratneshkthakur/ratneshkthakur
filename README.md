@@ -26,6 +26,8 @@
 - [Product Managers should be flexible about their products](https://medium.com/@ratneshkumarthakur/product-managers-should-not-be-too-attached-to-their-products-and-be-willing-to-change-c678fde4c60b)
 - [Embrace Blowhorn's Self-Sign Up Portal](https://blog.blowhorn.com/article/goodbye-paperwork-now-use-blowhorn-s-self-sign-up-portal-for-integrated-fulfillment)
 - [Blowhorn Integrated Fulfillment: Your Business Gamechanger](https://blog.blowhorn.com/article/why-blowhorn-integrated-fulfillment-can-be-a-gamechanger-for-your-business)
+- [The Demise of Passbook Entries](https://medium.com/@ratneshkumarthakur/the-demise-of-passbook-entries-embracing-the-era-of-netbanking-914b4295863d)
+
 
 <p align="center"> Show some ❤️ by commenting on the blogs!
 
