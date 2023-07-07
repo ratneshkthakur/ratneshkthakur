@@ -51,7 +51,4 @@
 - Launched Mobile application (iOS & Android) for Technician management. •Onboarded 50+ customers to onboard by doing their data migration.
 
 **##Practo Technologies Pvt. Ltd.** 
-- Launched Mobile application (iOS & Android) for Technician management. •Onboarded 50+ customers to onboard by doing their data migration.
-
-
-
+- I was honored with the title of "Top Performer of the Year" in recognition of my exceptional performance.
