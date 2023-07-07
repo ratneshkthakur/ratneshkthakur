@@ -17,3 +17,8 @@ Microsoft Office: Proficient in utilizing various tools within the Microsoft Off
 Mixpanel: Expertise in leveraging Mixpanel for product analytics and insights.
 
 -  📫 Got something to talk about? ratneshkumarthakur@gmail.com or feel free to connect on LinkedIn
+
+
+My Blog Posts 🌱
+- Product Manager should be flexible about their product
+- 
