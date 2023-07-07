@@ -1,4 +1,5 @@
 ## <p align="center"> Hi there 👋 I'm Ratnesh K Thakur
+![Uploading FullSizeRender.jpg…]()
 
 <p align="center"> Product Manager | UI/UX Enthusiast | Storyteller | Social Media Marketing Advocate
 
