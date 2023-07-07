@@ -2,8 +2,6 @@
 
 <p align="center"> Product Manager | UI/UX Enthusiast | Storyteller | Social Media Marketing Advocate
 
-![FullSizeRender](https://github.com/ratneshkthakur/ratneshkthakur/assets/71059840/0acec43c-3bb9-4622-b81f-856c49b7106d)
-
 - 🔭 I’m currently working as a Product Manager II at Blowhorn
 -  🌱 I’m currently learning Python and HTML
 -  👯 I’m looking to collaborate on Product Management, UI/UX, User Engagement, and Social Media Marketing.
