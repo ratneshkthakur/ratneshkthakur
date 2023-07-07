@@ -1,9 +1,8 @@
 ## <p align="center"> Hi there 👋 I'm Ratnesh K Thakur
 
-![FullSizeRender](https://github.com/ratneshkthakur/ratneshkthakur/assets/71059840/4843ee70-04ca-475a-8bc6-a7ccdc98bf16)
-
-
 <p align="center"> Product Manager | UI/UX Enthusiast | Storyteller | Social Media Marketing Advocate
+
+![FullSizeRender](https://github.com/ratneshkthakur/ratneshkthakur/assets/71059840/0acec43c-3bb9-4622-b81f-856c49b7106d)
 
 - 🔭 I’m currently working as a Product Manager II at Blowhorn
 -  🌱 I’m currently learning Python and HTML
