@@ -6,7 +6,7 @@
 - 💬 Feel free to ask me about Product Management, Product Life Cycle Management, and more. I'm here to help!
 
 ----
-**Here are my areas of expertise:**
+### **Here are my areas of expertise:**
 - Analytical Skills: Leveraging data-driven insights to guide product decisions.
 - Business Development: Identifying growth opportunities and forging strategic partnerships.
 - Presentation Skills: Effectively communicating product visions and strategies.
@@ -19,7 +19,7 @@
 
 -----
 
-**My Blog Posts ✍️**
+### **My Blog Posts ✍️**
 
 - [Product Managers should be flexible about their products](https://medium.com/@ratneshkumarthakur/product-managers-should-not-be-too-attached-to-their-products-and-be-willing-to-change-c678fde4c60b)
 - [Embrace Blowhorn's Self-Sign Up Portal](https://blog.blowhorn.com/article/goodbye-paperwork-now-use-blowhorn-s-self-sign-up-portal-for-integrated-fulfillment)
@@ -31,22 +31,22 @@
 
 
 -----
-**Achievements 🚀**
+### **Achievements 🚀**
 
 
-**## Blowhorn**
-- Successfully launched the Integrated Fulfilment web platform, resulting in a significant increase in daily active users (DAU) from zero to 400. 
+**Blowhorn**
+- Successfully launched the Integrated Fulfilment web platform, resulting in a significant increase in daily active users (DAU) from zero to 400.
 - Successfully launched Integrated Fulfilment Application on Play Store & App Store, garnering 5k downloads within a month. 
 
-**## SoniqMantra Pvt. Ltd.**
+**SoniqMantra Pvt. Ltd.**
 - Successfully launched Preschool App to conduct Live Classes.
 - Re-launched Mobile Application for seamless user experience.
 
-**## Talview Inc.**
+**Talview Inc.**
 - Successfully launched the Talview application on MS Teams.
 
-**## SmartServ Inc.** 
+**SmartServ Inc.** 
 - Launched Mobile application (iOS & Android) for Technician management. •Onboarded 50+ customers to onboard by doing their data migration.
 
-**## Practo Technologies Pvt. Ltd.** 
+**Practo Technologies Pvt. Ltd.** 
 - I was honored with the title of "Top Performer of the Year" in recognition of my exceptional performance.
