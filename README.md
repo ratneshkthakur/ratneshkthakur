@@ -34,19 +34,19 @@
 **Achievements 🚀**
 
 
-**##Blowhorn**
+**## Blowhorn**
 - Successfully launched the Integrated Fulfilment web platform, resulting in a significant increase in daily active users (DAU) from zero to 400. 
 - Successfully launched Integrated Fulfilment Application on Play Store & App Store, garnering 5k downloads within a month. 
 
-**##SoniqMantra Pvt. Ltd.**
+**## SoniqMantra Pvt. Ltd.**
 - Successfully launched Preschool App to conduct Live Classes.
 - Re-launched Mobile Application for seamless user experience.
 
-**##Talview Inc.**
+**## Talview Inc.**
 - Successfully launched the Talview application on MS Teams.
 
-**##SmartServ Inc.** 
+**## SmartServ Inc.** 
 - Launched Mobile application (iOS & Android) for Technician management. •Onboarded 50+ customers to onboard by doing their data migration.
 
-**##Practo Technologies Pvt. Ltd.** 
+**## Practo Technologies Pvt. Ltd.** 
 - I was honored with the title of "Top Performer of the Year" in recognition of my exceptional performance.
