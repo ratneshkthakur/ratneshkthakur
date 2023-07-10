@@ -2,10 +2,10 @@
 
 ![White Minimalist Profile LinkedIn Banner (2)](https://github.com/ratneshkthakur/ratneshkthakur/assets/71059840/03dc8625-5278-4dfd-ac72-5591cf6d146c)
 
-- 🔭 Currently, I serve as a Product Manager II at Blowhorn, overseeing product development.
-- 🌱 I'm actively expanding my skill set with Python and HTML, embracing continuous learning.
-- 👯 Seeking collaborations in Product Management, UI/UX, User Engagement, and Social Media Marketing.
-- 💬 Feel free to ask me about Product Management, Product Life Cycle Management, and more. I'm here to help!
+- 🔭 At the moment, I hold the position of Product Manager II at Blowhorn, where I supervise the development of our products.
+- 🌱 I'm proactively enhancing my abilities in Python and HTML, and I strongly believe in the importance of continuous learning.
+- 👯 I'm looking for opportunities to collaborate in the fields of Product Management, UI/UX, User Engagement, and Social Media Marketing.
+- 💬 Don't hesitate to reach out to me if you have any questions about Product Management, Product Life Cycle Management, or any related topics. I'm here to provide assistance!
 
 ----
 ### **Here are my areas of expertise:**
