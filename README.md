@@ -19,7 +19,7 @@
 - Microsoft Office: Proficient in utilizing various tools within the Microsoft Office suite.
 - Mixpanel: Expertise in leveraging Mixpanel for product analytics and insights.
 
-📫 Got something to talk about? ratneshkumarthakur@gmail.com or feel free to connect on LinkedIn
+📫 Got something to talk about? ratneshkumarthakur@gmail.com or feel free to connect on [LinkedIn](https://www.linkedin.com/in/ratneshkthakur/)
 
 -----
 
