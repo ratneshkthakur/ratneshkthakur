@@ -29,7 +29,7 @@
 - [Embrace Blowhorn's Self-Sign Up Portal](https://blog.blowhorn.com/article/goodbye-paperwork-now-use-blowhorn-s-self-sign-up-portal-for-integrated-fulfillment)
 - [Blowhorn Integrated Fulfillment: Your Business Gamechanger](https://blog.blowhorn.com/article/why-blowhorn-integrated-fulfillment-can-be-a-gamechanger-for-your-business)
 - [The Demise of Passbook Entries](https://medium.com/@ratneshkumarthakur/the-demise-of-passbook-entries-embracing-the-era-of-netbanking-914b4295863d)
-
+- [Demystifying the Art of Creating a Powerful Product Roadmap] (https://medium.com/@RatneshKThakur/demystifying-the-art-of-creating-a-powerful-product-roadmap-5155b36a74b9) 
 
 <p align="center"> Show some ❤️ by commenting on the blogs!
 
